@@ -1,6 +1,6 @@
 # Productivity Prediction of Garment Employees
 
-## Project Description
+## Project Information
 This project focuses on analyzing and predicting the productivity of garment employees using data mining techniques. The dataset contains detailed information about employees, their working conditions, and their productivity levels in a garment manufacturing environment. The project applies both classification and clustering techniques to better understand productivity behavior and identify patterns among employees.
 
 ## Problem Statement
