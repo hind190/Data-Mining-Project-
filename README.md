@@ -1,28 +1,23 @@
 # Productivity Prediction of Garment Employees
 
 ## Project Description
-This project focuses on analyzing and predicting the productivity of garment employees using data mining techniques. The dataset contains information about workers’ performance, working conditions, and productivity levels. The main problem addressed in this project is understanding the factors that affect employee productivity and classifying productivity levels, as well as discovering patterns among workers with similar characteristics.
+This project focuses on analyzing and predicting the productivity of garment employees using data mining techniques. The dataset contains detailed information about employees, their working conditions, and their productivity levels in a garment manufacturing environment. The project applies both classification and clustering techniques to better understand productivity behavior and identify patterns among employees.
 
-This project includes both classification and clustering tasks.
+## Problem Statement
+Employee productivity plays a crucial role in the efficiency and success of manufacturing industries. However, productivity levels may vary due to multiple factors such as work conditions, workload, and operational processes. The main problem addressed in this project is identifying the factors that influence employee productivity and determining whether productivity levels can be predicted accurately using data mining techniques. Additionally, the project aims to discover hidden patterns and similarities among employees based on their productivity data.
 
-## Project Goal
-The goal of this project is to:
-
-Apply classification techniques to predict employee productivity levels based on different features.
-
-Apply clustering techniques to identify groups of employees with similar productivity patterns and working conditions.
-
-Through this, the project aims to gain insights into productivity behavior in the garment industry.
+## Objectives
+The objectives of this project are:
+- To apply classification techniques to predict the productivity levels of garment employees.
+- To apply clustering techniques to group employees with similar productivity characteristics.
+- To analyze the dataset and understand the key attributes that affect employee productivity.
+- To gain meaningful insights that could support decision-making in productivity management.
 
 ## Motivation
-This dataset was chosen because employee productivity is an important factor in industrial performance and management. Understanding productivity patterns can help organizations improve efficiency, optimize working conditions, and support better decision-making. In addition, the dataset is real-world, well-structured, and suitable for applying multiple data mining techniques learned in this course.
+This dataset was chosen because productivity analysis is a critical aspect of workforce management in industrial environments. Understanding productivity patterns can help organizations improve efficiency, optimize resource allocation, and enhance overall performance. Moreover, the dataset is real-world, sufficiently large, and suitable for applying multiple data mining techniques covered in this course, making it an ideal choice for this project.
 
 ## Team Members
 - Hind Alwasel
 - Shmookh Alsalman
 - Raghad Alharbi
 - Rawan Almutairi
-
-## Dataset Source
-The dataset used in this project was obtained from Kaggle:
-https://www.kaggle.com/datasets/ishadss/productivity-prediction-of-garment-employees
