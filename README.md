@@ -1,7 +1,8 @@
 # Productivity Prediction of Garment Employees
 
 ## Project Information
-This project focuses on analyzing and predicting the productivity of garment employees using data mining techniques. The dataset contains detailed information about employees, their working conditions, and their productivity levels in a garment manufacturing environment. The project applies both classification and clustering techniques to better understand productivity behavior and identify patterns among employees.
+This project focuses on analyzing the Garment Worker Productivity dataset, which was collected during the first quarter of 2015 from a garment factory in Bangladesh. The dataset is composed of 1,197 instances recorded across 59 working days, offering deep insights into how productivity unfolded on the factory floor.
+The analysis investigates the influence of 15 recorded attributes, including: date, quarter, department, day, team, targeted productivity, SMV (Standard Minute Value), WIP (Work In Progress), overtime, incentive, idle time, idle men, number of style changes, and number of workers.
 
 ## Problem Statement
 Employee productivity plays a crucial role in the efficiency and success of manufacturing industries. However, productivity levels may vary due to multiple factors such as work conditions, workload, and operational processes. The main problem addressed in this project is identifying the factors that influence employee productivity and determining whether productivity levels can be predicted accurately using data mining techniques. Additionally, the project aims to discover hidden patterns and similarities among employees based on their productivity data.
